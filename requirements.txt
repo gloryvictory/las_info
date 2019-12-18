@@ -1,0 +1,2 @@
+chardet==3.0.4
+python-dateutil==2.8.0
