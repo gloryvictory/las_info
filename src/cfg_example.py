@@ -38,4 +38,4 @@ value_error = 'ERROR'
 server_mail = "localhost"
 server_mail_port = 25
 send_from = 'Zamaraev@gmail.com'
-send_to = 'Zamaraev@gmail.com, Zamaraev@someserver.com'
+send_to = 'Zamaraev@gmail.com'
